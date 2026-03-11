@@ -12,7 +12,7 @@ export function Presentation() {
     location: 'Gurugram, Haryana',
     description:
       "Hey 👋\nI'm Rajeev, a Mobile Team Lead & Architect turning ideas into polished iOS, Android, and Flutter products with deep expertise in Swift, Dart, and modern architecture patterns.",
-    src: '/profile-rajeev.jpeg',
+    src: '/profile-rajeev.jpg',
     fallbackSrc:
       'https://images.unsplash.com/photo-1610216705422-caa3fcb6d158?q=80&w=3560&auto=format&fit=crop&ixlib=rb-4.0.3',
   };

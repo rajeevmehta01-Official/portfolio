@@ -101,7 +101,7 @@ export default function Home() {
           animationDuration={1.5}
           label="Star"
           size={'sm'}
-          repoUrl="https://github.com/rajeevmehta01/ai-native_portfolio.git"
+          repoUrl="https://github.com/rajeevmehta01-Official/portfolio.git"
         />
       </div>
 

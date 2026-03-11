@@ -37,8 +37,8 @@ export function Contact() {
     {
       icon: <Github className="h-5 w-5" />,
       title: 'GitHub',
-      value: 'rajeevmehta01',
-      href: 'https://github.com/rajeevmehta01',
+      value: 'rajeevmehta01-Official',
+      href: 'https://github.com/rajeevmehta01-Official',
       color: 'text-gray-800'
     }
   ];

@@ -289,7 +289,7 @@ const Chat = () => {
             animationDuration={1.5}
             label="Star"
             size={'sm'}
-            repoUrl="https://github.com/rajeevmehta01"
+            repoUrl="https://github.com/rajeevmehta01-Official/portfolio"
           />
         </div>
       </div>
