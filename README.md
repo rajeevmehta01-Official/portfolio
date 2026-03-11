@@ -1,11 +1,5 @@
 <div align="center">
 
-  <br />
-  <p>
-    <img src="assets/readme-photo.png" alt="AI Portfolio Banner" width="100%"/>
-  </p>
-  <br />
-
   <h1>AI-Powered Interactive Portfolio</h1>
   <p><strong>Rajeev Mehta</strong> — Lead, Mobile Application Development</p>
 </div>
