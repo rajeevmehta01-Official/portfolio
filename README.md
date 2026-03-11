@@ -16,7 +16,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/repo-size/rajeevmehta01-Official/portfolio?style=for-the-badge" alt="Repo Size">
-  <img src="https://img.shields.io/github/license/rajeevmehta01-Official/portfolio?style=for-the-badge" alt="License">
   <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"></a>
   <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Deployment"></a>
   <a href="https://openai.com/"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"></a>
@@ -107,12 +106,6 @@ Contributions are welcome! Any contributions you make are **greatly appreciated*
 3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`).
 4.  Push to the Branch (`git push origin feature/AmazingFeature`).
 5.  Open a **Pull Request**.
-
----
-
-### **License**
-
-This project is open-sourced under the **MIT License**. See the [LICENSE](LICENSE) file for more information.
 
 ---
 
