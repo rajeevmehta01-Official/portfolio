@@ -6,21 +6,20 @@ export const getInternship = tool({
     "Gives a summary of what kind of internship I'm looking for, plus my contact info and how to reach me. Use this tool when the user asks about my internship search or how to contact me for opportunities.",
   parameters: z.object({}),
   execute: async () => {
-    return `Here’s what I’m looking for 👇
+    return `Here’s what I bring to the table 👇
 
-- 📅 **Availability**: Open to immediate opportunities
-- 🌍 **Location**: Preferably **Gurugram** or anywhere in the **India**
-- 🧑‍💻 **Focus**: Data Science, AI/ML, Full-stack development
-- 🛠️ **Stack**: Python, React, SQL, TensorFlow, Power BI, Tableau
-- ✅ **What I bring**: Experience in building data-driven dashboards, optimizing data pipelines, and developing end-to-end analytics projects. Proven ability to translate raw data into actionable business insights.
-- 🔥 I move fast, learn faster, and I’m HUNGRYYYYY for big challenges
+- 📅 **Experience**: 11+ years in mobile development (Jan 2012 – Present)
+- 🌍 **Location**: **Gurugram, Haryana**
+- 🧑‍💻 **Focus**: Mobile Team Lead & Architecture, iOS & Flutter Development
+- 🛠️ **Stack**: Flutter/Dart, Swift/SwiftUI, Objective-C, Clean Architecture, MVVM, BLoC, Provider, Riverpod
+- ✅ **What I bring**: Led teams of up to 10 engineers, launched 15+ consumer and enterprise apps. Deep expertise in CI/CD, App Store releases, and performance optimization.
+- 🔥 I own the entire mobile journey — from road-mapping to release
 
 📬 **Contact me** via:
-- Email: yuvraj0412s@gmail.com
-- LinkedIn: [linkedin.com/in/yuvraj-singh-77601827a](- LinkedIn: https://linkedin.com/in/yuvraj-singh-77601827a)
-- GitHub: [github.com/yuvraj0412s](https://github.com/yuvraj0412s)
+- Email: rajeevmehta01@gmail.com
+- Phone: +91 9582428073
 
-Let's build cool shit together ✌️
+Let’s build something great together ✌️
     `;
   },
 });

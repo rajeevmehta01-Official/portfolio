@@ -6,28 +6,25 @@ const Sports = () => {
     <div className="mx-auto w-full">
       <div className="mb-8">
         <h2 className="text-foreground text-3xl font-semibold md:text-4xl">
-          🏅 Not Just Tech - I'm Built for the Fast Lane
+          Beyond Code - My Journey & Interests
         </h2>
         <p className="mt-2 text-muted-foreground text-lg">
-          (On Wheels, Tables, and Consoles)
+          (From Architecture to Leadership)
         </p>
       </div>
 
       <div className="space-y-6 text-muted-foreground text-base">
         <p>
-          Before I dove deep into development, I was speeding through life quite literally on skates 🛼. I’ve been skating since childhood and even made it to the national level. It taught me discipline, balance, and how to keep moving forward no matter the bumps (or bruises).
+          With over 11 years in mobile development, my journey has been about more than just writing code. I've had the privilege of leading cross-functional teams of up to ten engineers, launching 15+ consumer and enterprise apps that consistently raised the bar for quality.
         </p>
         <p>
-          My love for sports didn’t stop there. I’ve proudly captained my college snooker team 🎱—snooker’s actually my all-time favorite. It's a game of precision, patience, and strategy, basically debugging, but with more chalk and cooler posture.
+          I believe in mentoring the next generation of developers. Whether it's code reviews, architecture discussions, or helping junior devs debug their first production issue — I find great satisfaction in helping others grow.
         </p>
         <p>
-          On the virtual side of things, I was also part of a professional esports team 🎮. It’s high-speed, high-pressure, and weirdly similar to deploying a complex AI model with zero margin for error.
+          Outside of work, I'm a continuous learner who stays on top of the latest in mobile development — from SwiftUI to Flutter's evolving ecosystem. I enjoy exploring new architectural patterns and finding ways to make apps faster and more reliable.
         </p>
         <p>
-          When I’m not leading code or cue sports, you’ll catch me on a bike ride 🏍️—it’s my way to chase the thrill and hit pause on the chaos. Two wheels, open roads, and some deep thinking time works every time.
-        </p>
-        <p>
-          And just for fun? I enjoy a game of badminton 🏸, a match of football ⚽, or a thoughtful round of chess ♟️. Win or lose, it’s all part of staying sharp mentally and physically.
+          I'm passionate about translating business goals into intuitive, high-performance mobile experiences. The entire journey — from road-mapping and architecture to CI/CD and App Store release — is what drives me every day.
         </p>
       </div>
     </div>

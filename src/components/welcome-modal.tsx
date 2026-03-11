@@ -37,7 +37,7 @@ export default function WelcomeModal({ trigger }: WelcomeModalProps) {
         alt="Logo"
         className="w-6 md:w-8"
       />
-      <span className="sr-only">About Yuvi</span>
+      <span className="sr-only">About Rajeev</span>
     </Button>
   );
 
@@ -69,7 +69,7 @@ export default function WelcomeModal({ trigger }: WelcomeModalProps) {
             <DialogHeader className="relative flex flex-row items-start justify-between px-8 pt-8 pb-6">
               <div>
                 <DialogTitle className="flex items-center gap-2 text-4xl font-bold tracking-tight">
-                  Welcome to Yuvraj's AI Portfolio
+                  Welcome to Rajeev's AI Portfolio
                 </DialogTitle>
                 <DialogDescription className="mt-2 text-base">
                   {/*My interactive AI portfolio experience*/}

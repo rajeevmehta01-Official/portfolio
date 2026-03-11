@@ -14,40 +14,38 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Yuvraj Singh Portfolio",
-  description: "Interactive portfolio with an AI-powered Memoji that answers questions about me, my skills, and my experience",
+  title: "Rajeev Mehta Portfolio",
+  description: "Interactive portfolio of Rajeev Mehta - Mobile Team Lead & Architect with 11+ years of iOS, Android, and Flutter expertise",
   keywords: [
-    "Yuvraj Singh", 
-    "Portfolio", 
-    "Developer", 
-    "AI", 
-    "Interactive", 
-    "Memoji", 
-    "Web Development",
-    "Full Stack",
-    "Next.js",
-    "React"
+    "Rajeev Mehta",
+    "Portfolio",
+    "Mobile Developer",
+    "iOS",
+    "Flutter",
+    "Swift",
+    "Mobile Architect",
+    "Team Lead",
+    "App Development",
+    "Cross-Platform"
   ],
   authors: [
     {
-      name: "Yuvraj Singh",
-      url: "https://yuvraj.bio",
+      name: "Rajeev Mehta",
     },
   ],
-  creator: "Yuvraj Singh",
+  creator: "Rajeev Mehta",
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://yuvraj.bio",
-    title: "Yuvraj Singh Portfolio",
-    description: "Interactive portfolio with an AI-powered Memoji that answers questions about me",
-    siteName: "Yuvraj Singh Portfolio",
+    title: "Rajeev Mehta Portfolio",
+    description: "Interactive portfolio - Mobile Team Lead & Architect with 11+ years experience",
+    siteName: "Rajeev Mehta Portfolio",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Yuvraj Singh Portfolio",
-    description: "Interactive portfolio with an AI-powered Memoji that answers questions about me",
-    creator: "@yuvrajsingh",
+    title: "Rajeev Mehta Portfolio",
+    description: "Interactive portfolio - Mobile Team Lead & Architect with 11+ years experience",
+    creator: "@rajeevmehta",
   },
   icons: {
     icon: [

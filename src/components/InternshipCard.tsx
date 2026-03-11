@@ -6,7 +6,7 @@ import { useRouter } from 'next/navigation';
 
 const InternshipCard = () => {
   const openMail = () => {
-    window.open('mailto:yuvraj0412s@gmail.com', '_blank');
+    window.open('mailto:rajeevmehta01@gmail.com', '_blank');
   };
   const router = useRouter();
 
@@ -23,17 +23,17 @@ const InternshipCard = () => {
           {/* Avatar placeholder */}
           <div className="bg-muted h-16 w-16 overflow-hidden rounded-full shadow-md">
             <img
-              src="/profile-yuvi.jpg"
-              alt="Yuvraj's avatar"
+              src="/profile-rajeev.jpeg"
+              alt="Rajeev's avatar"
               className="h-full w-full object-cover"
             />
           </div>
           <div>
             <h2 className="text-foreground text-2xl font-semibold">
-              Yuvraj Singh
+              Rajeev Mehta
             </h2>
             <p className="text-muted-foreground text-sm">
-              Internship Application
+              Lead - Mobile Application Development
             </p>
           </div>
         </div>
@@ -57,7 +57,7 @@ const InternshipCard = () => {
           <div>
             <p className="text-foreground text-sm font-medium">Duration</p>
             <p className="text-muted-foreground text-sm">
-              currently open for contributions August (2025)
+              11+ years of experience (Jan 2012 – Present)
             </p>
           </div>
         </div>
@@ -78,16 +78,16 @@ const InternshipCard = () => {
             <p className="text-foreground text-sm font-medium">Tech stack</p>
             <div className="text-muted-foreground grid grid-cols-1 gap-y-1 text-sm sm:grid-cols-2">
               <ul className="decoration-none list-disc pl-4">
-                <li>Python, Next.js, SQL</li>
-                <li>Flask, Django</li>
-                <li>OpenAI, Mistral, Claude</li>
-                <li>Prompt engineering, fine-tuning</li>
+                <li>Flutter (Dart), iOS (Swift, SwiftUI)</li>
+                <li>Objective-C, Android Native</li>
+                <li>Clean Architecture, MVVM, BLoC</li>
+                <li>Provider, Riverpod</li>
               </ul>
               <ul className="list-disc pl-4">
-                <li>JavaScript, React</li>
-                <li>Hugging Face Transformers</li>
-                <li>TensorFlow, PyTorch</li>
-                <li>LangChain + AI agent workflows</li>
+                <li>Xcode, Android Studio, Fastlane</li>
+                <li>Firebase, AWS, Azure</li>
+                <li>REST APIs, SQLite, Realm</li>
+                <li>CI/CD, TestFlight, TeamCity</li>
                 <li>
                   <a
                     href="/chat?query=What%20are%20your%20skills%3F%20Give%20me%20a%20list%20of%20your%20soft%20and%20hard%20skills."
@@ -108,9 +108,9 @@ const InternshipCard = () => {
           What I bring
         </p>
         <p className="text-foreground text-sm">
-          Real-world AI dev experience. <br /> 
-          Blending AI passion with hands-on development to bring tech ideas to life. <br /> 
-          I ship fast, and love building useful things that actually work.
+          11+ years of mobile development expertise. <br />
+          Deep Swift/Objective-C and Dart expertise with modern architecture patterns. <br />
+          Led teams of up to 10 engineers, launching 15+ consumer and enterprise apps.
         </p>
       </div>
 
@@ -118,9 +118,9 @@ const InternshipCard = () => {
       <div className="mt-8">
         <p className="text-foreground mb-2 text-lg font-semibold">Goal</p>
         <p className="text-foreground text-sm">
-          Join a bold, innovative team building AI-powered tools that matter. I
-          want to improve fast, contribute hard, and leave a mark. I’m fast,
-          flexible, and HUNGRYYYYY 🔥
+          Lead mobile architecture and engineering teams to deliver rock-solid,
+          high-performance iOS and Flutter applications that delight users and
+          drive business results.
         </p>
       </div>
 
